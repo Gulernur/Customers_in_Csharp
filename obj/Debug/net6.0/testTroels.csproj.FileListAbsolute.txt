@@ -1,0 +1,15 @@
+/Users/gulernurdonmez/Desktop/test/testTroels/bin/Debug/net6.0/testTroels
+/Users/gulernurdonmez/Desktop/test/testTroels/bin/Debug/net6.0/testTroels.deps.json
+/Users/gulernurdonmez/Desktop/test/testTroels/bin/Debug/net6.0/testTroels.runtimeconfig.json
+/Users/gulernurdonmez/Desktop/test/testTroels/bin/Debug/net6.0/testTroels.dll
+/Users/gulernurdonmez/Desktop/test/testTroels/bin/Debug/net6.0/testTroels.pdb
+/Users/gulernurdonmez/Desktop/test/testTroels/obj/Debug/net6.0/testTroels.csproj.AssemblyReference.cache
+/Users/gulernurdonmez/Desktop/test/testTroels/obj/Debug/net6.0/testTroels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gulernurdonmez/Desktop/test/testTroels/obj/Debug/net6.0/testTroels.AssemblyInfoInputs.cache
+/Users/gulernurdonmez/Desktop/test/testTroels/obj/Debug/net6.0/testTroels.AssemblyInfo.cs
+/Users/gulernurdonmez/Desktop/test/testTroels/obj/Debug/net6.0/testTroels.csproj.CoreCompileInputs.cache
+/Users/gulernurdonmez/Desktop/test/testTroels/obj/Debug/net6.0/testTroels.dll
+/Users/gulernurdonmez/Desktop/test/testTroels/obj/Debug/net6.0/refint/testTroels.dll
+/Users/gulernurdonmez/Desktop/test/testTroels/obj/Debug/net6.0/testTroels.pdb
+/Users/gulernurdonmez/Desktop/test/testTroels/obj/Debug/net6.0/testTroels.genruntimeconfig.cache
+/Users/gulernurdonmez/Desktop/test/testTroels/obj/Debug/net6.0/ref/testTroels.dll

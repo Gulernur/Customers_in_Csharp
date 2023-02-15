@@ -11,8 +11,8 @@
         static void Main(string[] args)
         {
             Customer[] customers = new Customer[3]; 
-            customers[0] = new Customer { Name = "John Doe", Age = 30, Email = "john.doe@example.com" };
-            customers[1] = new Customer { Name = "Jane Doe", Age = 25, Email = "jane.doe@example.com" };
+            customers[0] = new Customer { Name = "John Doe", Age = 30, Email = "John.doe@example.com" };
+            customers[1] = new Customer { Name = "Jane Doe", Age = 25, Email = "Jane.doe@example.com" }; 
             customers[2] = new Customer { Name = "Jim Smith", Age = 35, Email = null };
 
 
