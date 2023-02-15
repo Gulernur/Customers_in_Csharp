@@ -33,6 +33,12 @@
                 default: 
                 Console.WriteLine("the customer is over 40");
                 break; 
+
+
+
+
+
+                
             }
         }
     }
